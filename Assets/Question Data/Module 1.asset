@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c9cbc075f357e43b459e330bb09a5c, type: 3}
+  m_Name: Module 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionNumber: 1
+    question: What is the main goal of "Truthful Label Calibration"?
+    options:
+    - A) To make labels colorful and attractive
+    - B) To ensure labels are always correct and trustworthy
+    - C) To reduce the cost of printing labels
+    - D) To speed up the packing process
+    answerIndex: 1
+    scoreValue: 1
+  - questionNumber: 2
+    question: How long is the label valid for products sold in the domestic market?
+    options:
+    - A) 6 months from the date of testing
+    - B) 9 months from the date of testing
+    - C) 1 year from the date of packing
+    - D) 2 years from the date of packing
+    answerIndex: 1
+    scoreValue: 1
+  - questionNumber: 3
+    question: Who checks and signs the first printed label before packing starts?
+    options:
+    - A) Only the line operator
+    - B) The line operator and a manager
+    - C) The line operator and an executive
+    - D) An external inspector
+    answerIndex: 2
+    scoreValue: 1
+  - questionNumber: 4
+    question: When can the packing process begin?
+    options:
+    - A) As soon as the labels are printed
+    - B) After the executive confirms the label details are correct
+    - C) When the operator finishes their shift
+    - D) Before testing the product
+    answerIndex: 1
+    scoreValue: 1
+  - questionNumber: 5
+    question: How often is the label-checking process done?
+    options:
+    - A) Only for the first batch ever made
+    - B) Once a month to save time
+    - C) For every single batch that is packed
+    - D) Randomly, when the manager decides
+    answerIndex: 2
+    scoreValue: 1

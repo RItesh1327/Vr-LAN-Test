@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c9cbc075f357e43b459e330bb09a5c, type: 3}
+  m_Name: Module 1D
+  m_EditorClassIdentifier: 
+  questions:
+  - questionNumber: 1
+    question: What is the primary purpose of a Multihead Hopper Control Panel?
+    options:
+    - A) To improve seed germination rates
+    - B) To measure and package seeds accurately
+    - C) To store seeds at optimal temperatures
+    - D) To print labels on packaging materials
+    answerIndex: 1
+  - questionNumber: 2
+    question: Why is proper configuration of the control panel important?
+    options:
+    - A) To maximize energy efficiency
+    - B) To optimize weighing accuracy and dispensing speed
+    - C) To reduce noise levels during operation
+    - D) To extend maintenance intervals
+    answerIndex: 1
+  - questionNumber: 3
+    question: What benefit does the multihead hopper control system provide for packaging
+      operations?
+    options:
+    - A) Reduced equipment footprint
+    - B) Elimination of human operators
+    - C) Consistent portion sizes and reduced waste
+    - D) Extended seed shelf life
+    answerIndex: 2
+  - questionNumber: 4
+    question: "How does the multihead hopper control panel integrate with the packaging
+      line?\L"
+    options:
+    - A) Operates independently
+    - B) Connects to enhance speed and accuracy
+    - C) Requires manual data transfer
+    - D) Slows down for better control
+    answerIndex: 1
+  - questionNumber: 5
+    question: What outcome would likely result from incorrect configuration of the
+      multihead hopper control panel?
+    options:
+    - A) Consistent package weights
+    - B) Improved packaging aesthetics
+    - 'C) Irregular portion sizes and increased waste '
+    - D) Enhanced production speed
+    answerIndex: 2
